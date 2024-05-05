@@ -49,7 +49,7 @@ This repository contains MATLAB scripts for circle detection, distance calculati
         ```bash
         python YOLODLModel.py
         ```
-    - The script will start training the YOLOv5 model on custom data. It will generate output files and folders based on specified parameters.
+    - The script will start training the YOLOv5 model on custom data we provided. It will generate output files and folders based on specified parameters.
 
 2. **Evaluation and Cell Detection**:
     - After training, for model evaluation and cell detection, use the provided code snippet in a Python environment or Jupyter Notebook:
